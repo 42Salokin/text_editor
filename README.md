@@ -7,7 +7,7 @@
 
   User can install app from the browser to the desktop, then run the app outside of the browser. 
 
-  Live site deployed to Render at:  https://tech-blog-p0i5.onrender.com
+  Live site deployed to Render at:  
 
   ## Table of Contents
 
