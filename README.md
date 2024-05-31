@@ -7,7 +7,7 @@
 
   User can install app from the browser to the desktop, then run the app outside of the browser. 
 
-  Live site deployed to Render at:  
+  Live site deployed to Render at:  https://text-editor-enwp.onrender.com/
 
   ## Table of Contents
 
